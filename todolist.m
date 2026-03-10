@@ -1,10 +1,10 @@
-# To-Do List for Global Immobilier Midas Volta �nergie C�te D'Ivoire Website
+# To-Do List for Global Immobilier Midas Volta énergie Céte D'Ivoire Website
 
 ## Project Overview
-- **Company Name:** Global Immobilier Midas Volta �nergie C�te D'Ivoire
+- **Company Name:** Global Immobilier Midas Volta énergie Céte D'Ivoire
 - **Directory:** global_immobilier_midas_volta_nergie_c_te_d_ivoire
 - **Address/Contact:** 
-  - Global Immobilier Midas Volta �nergie C�te D'Ivoire
+  - Global Immobilier Midas Volta énergie Céte D'Ivoire
 - **Description:** Cocody, Abidjan, Cote D'Ivoire | Facebook
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
@@ -21,7 +21,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: global-immobilier-midas-volta-nergie-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Global Immobilier Midas Volta �nergie C�te D'Ivoire  - Meta description: Cocody, Abidjan, Cote D'Ivoire | Facebook...
+  - Title: Global Immobilier Midas Volta énergie Céte D'Ivoire  - Meta description: Cocody, Abidjan, Cote D'Ivoire | Facebook...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -37,7 +37,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Global Immobilier Midas Volta �nergie C�te D'Ivoire".
+  - Replace the hero title with "Global Immobilier Midas Volta énergie Céte D'Ivoire".
   - Update the subtitle with: "Cocody, Abidjan, Cote D'Ivoire | Facebook".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
